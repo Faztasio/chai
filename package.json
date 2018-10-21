@@ -1,5 +1,5 @@
 {
-  "name": "chailatte",
+  "name": "chaimocha",
   "description": "Stylish and fast HTTP requests.",
   "keywords": [
     "http",
@@ -11,10 +11,10 @@
   "author": "Zack Pace <uiysgamer@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/faztasio/chailatte.git"
+    "url": "https://github.com/faztasio/chaimocha.git"
   },
   "bugs": {
-    "url": "http://github.com/faztasio/chailatte/issues"
+    "url": "http://github.com/faztasio/chaimocha/issues"
   },
   "license": "Apache-2.0",
   "engines": {
